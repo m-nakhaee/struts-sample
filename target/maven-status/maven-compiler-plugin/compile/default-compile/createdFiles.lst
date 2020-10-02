@@ -1,0 +1,6 @@
+controller\form\ResultPersonForm.class
+controller\action\ResultAction.class
+model\entity\Person.class
+controller\action\PersonAction.class
+model\dao\PersonDao.class
+controller\form\PersonForm.class
